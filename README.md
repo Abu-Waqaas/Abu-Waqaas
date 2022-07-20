@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oyesiji Qowiyy Ajani (@Abu Waqaas)
+- 👋 Hi, I’m Oyesiji, Qowiyy Ajani (@Abu Waqaas)
 - 💞️ I'm a student of the University of Ilorin, Kwara state, my discipline is Mathemathics
 - 👀 I’m interested in learning about Data field
 - 🌱 I’m currently learning Data Analysis with Power BI, and I hope to start learning SQL by August by God's willing
